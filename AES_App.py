@@ -30,7 +30,7 @@ def main():
     st.markdown("<h1 style='color:#fc5626'>AES Encryption & Key Expansion</span>", unsafe_allow_html=True)
     st.markdown("<h7 style='color:#fc5626'>This application was developed wholly by Farah Ayyad</span>", unsafe_allow_html=True)
 
-    st.write("Enter your input in the sidebar on the left.")
+    st.success("Enter your input in the sidebar on the left.")
     
     with st.sidebar:
         st.title("Enter Information Here ")
