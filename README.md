@@ -26,11 +26,7 @@ This Streamlit application provides an interactive interface 🖥 for users to u
 
 5- Use the provided expanders to see more details on Ws and round keys.
 
-# Requirements 🛠
 
-1- Streamlit
-
-2- Pandas
 
 # Developer 👩‍💻
 
