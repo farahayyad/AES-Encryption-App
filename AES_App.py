@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import io
-import base64
 
 st.set_page_config(page_title="AES Encryption & Key Expansion", 
                    page_icon="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/47c0a2bc1fd48209db0e2d02fb061b84-1691777419655/b7ff978a-abc5-4c81-8117-f8b28ad14d00.jpg")
