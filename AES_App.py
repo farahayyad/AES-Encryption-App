@@ -101,7 +101,7 @@ def main():
                 new_s = s[2:] + s[0:2]
                 return new_s
             
-            s_box_aes = pd.read_csv("/Users/farahayyad/My Visual Studio Projects/CryptoApps/AES-App/Files/AES_S_BOX.csv")
+            s_box_aes = pd.read_csv("Files/AES_S_BOX.csv")
 
             def Substitute_S_Box(s):
                 new_s = ""
