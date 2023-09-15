@@ -29,7 +29,7 @@ def main():
     #st.image('https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/47c0a2bc1fd48209db0e2d02fb061b84-1691777419655/b7ff978a-abc5-4c81-8117-f8b28ad14d00.jpg')
     st.markdown("<h1 style='color:#fc5626'>AES Encryption & Key Expansion</span>", unsafe_allow_html=True)
     st.markdown("<h7 style='color:#fc5626'>This application was developed wholly by Farah Ayyad</span>", unsafe_allow_html=True)
-    st.markdown("<h9 style='color:#fc5626'>Enter your input in the sidebar</span>", unsafe_allow_html=True)
+    st.markdown("<h7 style='color:#fc5626'>Enter your input in the sidebar</span>", unsafe_allow_html=True)
 
     with st.sidebar:
         st.title("Enter Information Here ")
